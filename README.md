@@ -1,1 +1,11 @@
-##<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/lonWFYfXEhH9dGnyX0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/polar-bear-tinescloud-lonWFYfXEhH9dGnyX0">via GIPHY</a></p>
+# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="150"/> Hola, soy Brisa! Bienvenidos a mi GitHub
+
+![Banner de mi perfil](banner.png)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
