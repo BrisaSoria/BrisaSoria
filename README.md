@@ -15,5 +15,5 @@
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrisaSoria&show_icons=true&theme=radical)
+
 
